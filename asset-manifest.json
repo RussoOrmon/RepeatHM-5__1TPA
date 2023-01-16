@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RepeatHM-5__1TPAExpense-Project/static/css/main.7d0cb608.css",
+    "main.js": "/RepeatHM-5__1TPAExpense-Project/static/js/main.87079e20.js",
+    "index.html": "/RepeatHM-5__1TPAExpense-Project/index.html",
+    "main.7d0cb608.css.map": "/RepeatHM-5__1TPAExpense-Project/static/css/main.7d0cb608.css.map",
+    "main.87079e20.js.map": "/RepeatHM-5__1TPAExpense-Project/static/js/main.87079e20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d0cb608.css",
+    "static/js/main.87079e20.js"
+  ]
+}
